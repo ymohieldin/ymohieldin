@@ -42,13 +42,6 @@
 - 🔬 **Digital IC Design Labs** – RTL design, simulation, and verification in ModelSim/Vivado.
 - 💡 **Light Data Transmission System** – Data communication using light as the medium, implemented with Arduino and NRF24L01.  
 - 🎯 **PID Controller for Ball Balancing** – Real-time control system using Arduino Mega, IR sensors, and MATLAB/Simulink.
-  
----
-
-## 📈 GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
 ---
 
