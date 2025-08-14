@@ -29,4 +29,4 @@
 - 📡 Exploring **high-performance embedded AI**.
 ---
 
-⭐ *"Turning ideas into circuits, code, and secure systems."*
+⭐ *"Turning ideas into circuits, code, and alive systems."*
