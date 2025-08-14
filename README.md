@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Youssef Mohieldin
 
-🎓 **Communications & Electronics Engineer** | 💻 Embedded Systems & Linux Enthusiast | 🛰 AI on Hardware
+🎓 **Communications & Electronics Engineer** | 💻 Embedded Systems & Linux Enthusiast 
 
 ---
 
