@@ -16,7 +16,7 @@
 ## 🛠 Skills & Tools
 
 **Languages:**  
-`C` `C++` `Python` `Bash`
+`C` `C++` `Python` `Bash` `Assembly`
 
 **Embedded & Hardware:**  
 `AVR` `Arduino` `ESP` `ARM` `Raspberry pi`
